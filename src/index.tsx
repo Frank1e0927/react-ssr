@@ -5,4 +5,6 @@ const Index = () => {
   return <div>Hello here is ts lod?!</div>;
 };
 
-ReactDOM.render(<Index />, document.getElementById('index'));
+// ReactDOM.render(<Index />, document.getElementById('index'));
+
+export default Index
